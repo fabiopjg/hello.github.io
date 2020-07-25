@@ -1,0 +1,56 @@
+#principal{
+    background-color: snow;
+    margin: auto;
+    width: 960px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1{
+    font-family: sans-serif;
+    padding: 0px 0px 0px 340px;
+    background: rgb(185, 185, 212);
+
+}
+
+#imagem1{
+    padding: 0px 200px;
+    width: 500px;
+
+}
+
+#imagem2{
+    width: 300px;
+    float: left;
+    padding: 20px 0px 0px 0px;
+
+}
+
+.titulo{
+    font-family: sans-serif;
+    padding: 0px 0px 0px 425px;
+
+}
+
+.lista{
+    padding: 20px 0px 20px 350px;
+    border: 10px tan;
+
+}
+
+#imagem3{
+    width: 300px;
+    float: right;
+
+}
+
+#imagem4{
+    width: 280px;
+    float: left;
+
+}
+
+#imagem5{
+    padding: 10px 0px 0px 350px;
+
+}
